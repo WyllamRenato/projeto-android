@@ -78,8 +78,9 @@ nav>a {
 
 nav>a:hover {
     transition-duration: 0.3s;
-    background-color: var(--cor3);
-    color: var(--cor5);
+    /*background-color: var(--cor3);
+    color: var(--cor5);*/
+    box-shadow: inset 0px 0px 3px black;
 }
 
 main {
