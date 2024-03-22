@@ -82,7 +82,6 @@ nav>a:hover {
     color: var(--cor5);
     box-shadow: inset 0px 0px 3px black;*/
     transition-duration: 0.5s;
-    font-size: 17px;
     color: white;
 }
 
